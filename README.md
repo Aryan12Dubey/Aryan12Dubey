@@ -9,7 +9,8 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 
 <p align=center>
 <a href="https://www.kaggle.com/aryandubey78"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
-<a href="https://datascience.hp.com/us/en/our-ambassadors/ruchi-bhatia.html"><img height="25" src="https://img.shields.io/badge/Z%20by%20HP-Ambassador%20Profile-lightgrey"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Karan_Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-shah-a8ab6016b/)](https://www.linkedin.com/in/karan-shah-a8ab6016b/)
+[![Gmail Badge](https://img.shields.io/badge/-karanshah2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanshah2019@gmail.com)](mailto:karanshah2019@gmail.com)
 </p>
 
 ---
