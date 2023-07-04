@@ -9,8 +9,8 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 
 <p align=center>
 <a href="https://www.kaggle.com/aryandubey78"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
-[![Linkedin Badge](https://img.shields.io/badge/-Karan_Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-shah-a8ab6016b/)](https://www.linkedin.com/in/karan-shah-a8ab6016b/)
-[![Gmail Badge](https://img.shields.io/badge/-karanshah2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanshah2019@gmail.com)](mailto:karanshah2019@gmail.com)
+<a href="https://www.linkedin.com/in/aryan-dubey-a045a7198/"><img height="25" src="https://img.shields.io/badge/-aryan_dubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-dubey-a045a7198/"></a>
+<a href="mailto:karanshah2019@gmail.com"><img height="25" src="https://img.shields.io/badge/-aryan.gyn12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryan.gyn12@gmail.com"></a>
 </p>
 
 ---
@@ -33,10 +33,5 @@ Recent work:
 </p> -->
 
 <p align=center>
-<img height="25" src="" />
-<a href="">
 </a>
 </p>
-
-
-<!-- ![Ruchi's github stats](https://github-readme-stats.vercel.app/api?username=ruch798&show_icons=true&hide=contribs,issues)
